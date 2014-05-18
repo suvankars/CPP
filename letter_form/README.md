@@ -2,13 +2,14 @@
 
 This program is to write a program that produces a simple form letter based
 on user input.
+
 1. prompting a user to enter his or her first name and writing "Hello, firstname" where
 firstname is the name entered by the user. Then modify your code as
-follows : change the prompt to "Enter the name or the person you want to write to" and change the a output to "Dear first_name,". Don t forget
+follows : change the prompt to "Enter the name or the person you want to write to" and change the output to "Dear first_name,". Don't forget
 the comma.
 
 2. Add an inrroductory line or two, like "How are you? I am fine. I miss you."  Be sure to indent the first line. 
-Add a few more lines 
+Add a few more lines if you wish.
 
 3. Now prompt the user for the name of another friend, and store it in
 friend_name. Add a line to your letter: "Have you seen friend_name lately"

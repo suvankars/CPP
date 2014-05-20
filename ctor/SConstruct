@@ -1,0 +1,1 @@
+Program('ctor', Glob('*.cpp'))
